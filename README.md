@@ -1,9 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Abdulmajid</h1>
 <h3 align="center">A passionate Cloud Architect from Sudan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/media/7747207a1ef35cbe3f79a6cdf03d863f.gif">
-img {
-  border-radius: 50%;
-}
+
 - 🔭 I’m currently working on **My cloud resume challenge**
 
 - 🌱 I’m currently learning **Kubernetes**
