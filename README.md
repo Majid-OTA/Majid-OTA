@@ -1,5 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Abdulmajid</h1>
 <h3 align="center">A passionate Cloud Architect from Sudan</h3>
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1SJWKLAgrYUUe6AHgF29jKmfNxW4E-q0s/view">
 
 - 🔭 I’m currently working on **My cloud resume challenge**
 
